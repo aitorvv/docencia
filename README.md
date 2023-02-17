@@ -10,8 +10,8 @@ En este repositorio encontrarás material docente para diversas asignaturas. Los
 
 ## Contenidos
 
-*   Contenidos para [Máster DATAFOREST](https://github.com/aitorvv96/docencia/dataforest)
-*   Contenidos para [Grado en Ingeniería Forestal y del Medio Natural](https://github.com/aitorvv96/docencia/forestales)
+*   Contenidos para [Máster DATAFOREST](https://github.com/aitorvv96/docencia/tree/main/dataforest)
+*   Contenidos para [Grado en Ingeniería Forestal y del Medio Natural](https://github.com/aitorvv96/docencia/tree/main/forestales)
 
 ## Información complementaria
 
