@@ -10,8 +10,8 @@ En este repositorio encontrarás material docente para diversas asignaturas. Los
 
 ## Contenidos
 
-*   Contenidos para [Máster DATAFOREST](https://github.com/aitorvv96/docencia/tree/main/dataforest)
-*   Contenidos para [Grado en Ingeniería Forestal y del Medio Natural](https://github.com/aitorvv96/docencia/tree/main/forestales)
+*   Contenidos para [Máster DATAFOREST](https://github.com/aitorvv/docencia/tree/main/dataforest)
+*   Contenidos para [Grado en Ingeniería Forestal y del Medio Natural](https://github.com/aitorvv/docencia/tree/main/forestales)
 
 ## Información complementaria
 
@@ -66,6 +66,6 @@ Puedes acceder a la página web de SIMANFOR en www.simanfor.es
 ---
 <center>
 
-[Material docente](https://github.com/aitorvv96/docencia) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Material docente](https://github.com/aitorvv/docencia) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
